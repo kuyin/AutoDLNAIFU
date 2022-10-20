@@ -5,7 +5,7 @@
 
     wget https://github.com/kuyin/AutoDLNAIFU/blob/main/Run.ipynb
 
-Open JupyterLab in AutoDL console webpage
+Open JupyterLab in [AutoDL console webpage](https://www.autodl.com/console/instance/list)
 
 Open Run.ipynb and run all forms.
 
