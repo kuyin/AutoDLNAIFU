@@ -9,4 +9,4 @@ Open JupyterLab in [AutoDL console webpage](https://www.autodl.com/console/insta
 
 Open Run.ipynb and run all forms.
 
-Enjouy.
+Enjoy.
