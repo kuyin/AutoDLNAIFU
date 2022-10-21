@@ -1,9 +1,9 @@
 # AutoDLNAIFU
 
 # How to use
-    wget https://github.com/kuyin/AutoDLNAIFU/blob/main/install.sh && sh install.sh
+    wget https://raw.githubusercontent.com/kuyin/AutoDLNAIFU/main/install.sh && sh install.sh
 
-    wget https://github.com/kuyin/AutoDLNAIFU/blob/main/Run.ipynb
+    wget https://raw.githubusercontent.com/kuyin/AutoDLNAIFU/main/Run.ipynb
 
 Open JupyterLab in [AutoDL console webpage](https://www.autodl.com/console/instance/list)
 
