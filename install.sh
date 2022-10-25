@@ -1,6 +1,6 @@
 
 #!/bin/bash
-
+export http_proxy=http://192.168.1.174:12798 && export https_proxy=http://192.168.1.174:12798
 apt update
 cd /root/autodl-tmp/
 apt install -y -qq aria2
